@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "r7ZSf7oBSAU4GTY5rPJ6qrUcd0/aUOp1DP7/DjB76t0=",
+  "Source": "Test-Exercise",
+  "BasePath": "_content/Test-Exercise",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Test-Exercise\\wwwroot",
+      "Source": "Test-Exercise",
+      "ContentRoot": "C:\\C#\\Test-Exercise\\Test-Exercise\\wwwroot\\",
+      "BasePath": "_content/Test-Exercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\C#\\Test-Exercise\\Test-Exercise\\wwwroot\\css\\default.css",
+      "SourceId": "Test-Exercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\C#\\Test-Exercise\\Test-Exercise\\wwwroot\\",
+      "BasePath": "_content/Test-Exercise",
+      "RelativePath": "css/default.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\default.css"
+    }
+  ]
+}

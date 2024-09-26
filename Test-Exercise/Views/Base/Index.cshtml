@@ -1,0 +1,21 @@
+﻿@model Test_Exercise.Models.GasStationsViewModel
+
+<head>
+    <link href="/css/default.css?v=1.1" rel="stylesheet" />
+</head>
+
+
+<div class="index">
+
+    @foreach(var station in Model.stationDtos)
+    {
+        <div class="gasStation">
+            <div class="gasName">@station.display_name</div>
+            <div class="gasCoordinates">
+                <div>@station.lon</div>
+                <div>@station.lat</div>
+            </div>
+        </div>
+    }
+
+</div>

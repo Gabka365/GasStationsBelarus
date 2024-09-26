@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\C#\\Test-Exercise\\Test-Exercise\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Test-Exercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Test-Exercise.props",
+      "PackagePath": "build\\Test-Exercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Test-Exercise.props",
+      "PackagePath": "buildMultiTargeting\\Test-Exercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Test-Exercise.props",
+      "PackagePath": "buildTransitive\\Test-Exercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
